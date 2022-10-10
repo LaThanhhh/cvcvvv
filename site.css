@@ -1,0 +1,126 @@
+
+.site-title{
+    font-size: 1.2rem;
+    line-height: 2.5rem;
+    color: rgb(15, 86, 6);
+}
+.nav-link{
+    padding: 0;
+    font-size: 1.2rem;
+    line-height: 2.5rem;
+    color: rgb(15, 86, 6);
+
+}
+.name-bio{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.avatar{
+    border-radius: 100px;
+    border: 10px solid #66CC99;
+}
+.avatar-nickname{
+    margin-top: 40px;
+    text-align: center;
+    color: rgb(15, 86, 6);
+}
+.page-content{
+    width: auto;
+    height: auto;
+    background-image: url(https://i.pinimg.com/564x/4c/72/0f/4c720f820fb641c7ee25a26d7bbddea7.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: 10px solid #66CC99;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: -10px;
+    margin-bottom: 40px;
+
+}
+
+.row{
+  
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.list{
+    margin-left: 20px;
+}
+.row-mt-3{
+    display: flex;
+    margin-left:40px;
+    margin-right: 40px;
+    color: rgb(15, 86, 6);
+}
+.tag-two{
+    margin-left: 40px;
+    color: rgb(15, 86, 6);
+
+
+}
+.languages{
+   margin-left:40px;
+   padding-bottom: 40px;
+   color:rgb(9, 65, 6) ;
+}
+
+.tag-one{
+    width: 130px;
+    height: 30px;
+    background-color:#66CC99 ;
+    color:rgb(9, 65, 6) ;
+    margin-left: 40px;
+    border-radius: 10px;
+     
+}
+.tag-one:hover{
+      background-color: rgb(246, 196, 219);
+}
+.tag-n{
+    margin-left: 40px;
+  
+}
+.tag-ii{
+    color:rgb(9, 65, 6) ;
+}
+.col-two{
+    color: gray;
+}
+.box-one{
+    width: auto;
+    height: 5px;
+    background-image: linear-gradient(90deg,#66CC99,#fff);
+    margin-left: 40px;
+    margin-right: 40px;
+
+   
+}
+
+
+.center{
+    text-align: center;
+}
+
+.myname{
+    text-align: center;
+    padding-top: 30px;
+    color: grey;
+    
+}
+
+.nav-links{
+    font-size: 1.2rem;
+    line-height: 2.5rem;
+    color:grey;
+   
+   
+
+}
+footer{text-align: center;
+margin-top: -40px;}
